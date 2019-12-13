@@ -1,6 +1,7 @@
 # Python Section
 ## Conway's Game of Life
 <em><strong>Requires Python 3 and colorama module.</strong></em>
+colorama comes with anaconda 3.0 by default, so I highly recommend running this with an anaconda 3 venv.
 ```
 Usage: 
 python ConwayGOL.py [number of iterations <int>] [step? <bool>] [FPS <int>] [show background? <bool>]
